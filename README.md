@@ -1,0 +1,13 @@
+# Java Network Programming
+- **GetLocationExample**: Gets the server location of an IP (CountryCode, Name, Region, City, Postal Code, Latitude and Longitude)
+- **IPChar**: Determines whether the address provided is Local/Loop/Multicast/Unicast
+- **ReverseIP**: A program used that takes the provided IP and displays its Canonical Host Name
+- **SpamCheck**: Verifies if a website is considered malicious (spamhaus)
+- **URLtoIP**: A program that converts a user provided URL to its IP format
+- **webpage**: A program that downloads and displays a user chosen webpage
+- **WebsiteTest**: A program used to verify if a Website is online/offline
+- **TCP Server**: A TCP Server used to display a message sent from a TCP client
+- **TCP Client**: A TCP Client that sends a message to a TCP server
+- **UDP Server**: A UDP Server used to display a message sent from a UDP client
+- **UDP Client**: A UDP Client that sends a message to a UDP server
+- **Multithread TCP/IP Server**:
