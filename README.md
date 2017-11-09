@@ -10,4 +10,3 @@
 - **TCP Client**: A TCP Client that sends a message to a TCP server
 - **UDP Server**: A UDP Server used to display a message sent from a UDP client
 - **UDP Client**: A UDP Client that sends a message to a UDP server
-- **Multithread TCP/IP Server**:
